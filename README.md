@@ -26,7 +26,7 @@
 </a>
 
 ## *Badges:*
-[![@Anmol's Holopin board](https://holopin.me/devanshu)](https://holopin.io/@devanshu)
+
 </div>
 
 ---
@@ -55,7 +55,7 @@ alt="HTML"
 ## *Programming and Github Stats*
 
 [![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anm0lgill&theme=radical)](https://github.com/anm0lgill/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anm0lgill&layout=compact&theme=radical)](https://github.com/DEVANSHUKEJRIWAL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anm0lgill&layout=compact&theme=radical)](https://github.com/anm0lgill)
 <br>
 
 ---
