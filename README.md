@@ -9,7 +9,7 @@
 ## *Connect with me*
 
 
-<a href="mailto:devanshukejriwal24@gmail.com" target="_blank">
+<a href="mailto:anmolsgill2550@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 
@@ -26,7 +26,7 @@
 </a>
 
 ## *Badges:*
-[![@devanshu's Holopin board](https://holopin.me/devanshu)](https://holopin.io/@devanshu)
+[![@Anmol's Holopin board](https://holopin.me/devanshu)](https://holopin.io/@devanshu)
 </div>
 
 ---
@@ -54,7 +54,7 @@ alt="HTML"
 
 ## *Programming and Github Stats*
 
-[![Dev's github stats](https://github-readme-stats.vercel.app/api?username=DEVANSHUKEJRIWAL&theme=radical)](https://github.com/DEVANSHUKEJRIWAL/)
+[![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=DEVANSHUKEJRIWAL&theme=radical)](https://github.com/DEVANSHUKEJRIWAL/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVANSHUKEJRIWAL&layout=compact&theme=radical)](https://github.com/DEVANSHUKEJRIWAL)
 <br>
 
