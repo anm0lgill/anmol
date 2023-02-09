@@ -26,7 +26,7 @@
 </a>
 
 ## *Badges:*
-[![@Anmol's Holopin board](https://holopin.me/Anmol)](https://holopin.io/@Anmol)
+[![@devanshu's Holopin board](https://holopin.me/devanshu)](https://holopin.io/@devanshu)
 </div>
 
 ---
