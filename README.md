@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/DEVANSHUKEJRIWAL" target="_blank">
+<a href="https://github.com/anm0lgill" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
@@ -54,8 +54,8 @@ alt="HTML"
 
 ## *Programming and Github Stats*
 
-[![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=DEVANSHUKEJRIWAL&theme=radical)](https://github.com/DEVANSHUKEJRIWAL/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVANSHUKEJRIWAL&layout=compact&theme=radical)](https://github.com/DEVANSHUKEJRIWAL)
+[![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anm0lgill&theme=radical)](https://github.com/anm0lgill/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anm0lgill&layout=compact&theme=radical)](https://github.com/DEVANSHUKEJRIWAL)
 <br>
 
 ---
